@@ -1,4 +1,4 @@
-This is a 1-d Linear advection solver in C++, originally implemented as part of my Numerical Methods course.
+This is a 1-d Linear advection solver in C++, originally implemented as part of my ME-581 (Numerical Methods) course HW.
 The 2nd order accurate Lax-Wendroff Scheme has been used here for stability purposes.
 
 The python plotting visualizer yields this: 
